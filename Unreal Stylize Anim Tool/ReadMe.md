@@ -1,3 +1,5 @@
+This is the final write-up I did for my tools class; it also explains the logic and context of creating a tool like this.
+<br><br>
 <h1>Final Project Writeup</h1>
 Alfredo Fonseca Siqueiros<br>
 MSc Technical Art and VFX<br>
